@@ -47,5 +47,8 @@
   *{
     font-size: xx-large;
   }
+  input{
+    width: 100%;
+  }
 </style>
   
